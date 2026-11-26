@@ -24,34 +24,34 @@ const VIDEOS = [
     date: "Começo de 2022",
     description: "Um trabalho para o qual fui indicado. Trabalhamos juntos por um mês em 15 vídeos de 35 minutos de média. Não posso divulgar mais material, mas esse foi meu primeiro grande projeto.",
     file: "",
-    youtube: "https://youtu.be/pH2M6Jh2HVo"
+    youtube: "pH2M6Jh2HVo"
   },
   {
     title: "Countdown para uma mesa de RPG",
     date: "2023",
     description: "Fiz para um amigo que ia mestrar um RPG inspirado em Naruto, na época em que o RPG do Cellbit estava em alta.",
     file: "",
-    youtube: "https://youtu.be/MacCpsZpQ08"
+    youtube: "MacCpsZpQ08"
   },
   {
     title: "Trailer para um jogo mobile",
     date: "2025",
     description: "Trabalhei com alguns colegas de faculdade e fiz este trailer para um jogo que acabou não sendo lançado.",
     file: "",
-    youtube: "https://youtu.be/c7cQ-k58d6A"
+    youtube: "c7cQ-k58d6A"
   },
   {
     title: "Curta de animação em After Effects",
     date: "2026",
     description: "Trabalho da matéria de animação na faculdade, feito em After Effects, com os assets criados no Illustrator.",
     file: "",
-    youtube: "https://youtu.be/C2njRjN9kx8"
+    youtube: "C2njRjN9kx8"
   },
   {
     title: "Trailer do projeto do semestre",
     date: "2026",
     description: "Trailer desenvolvido para o projeto final do sexto semestre da minha faculdade, Senac Santo Amaro.",
     file: "",
-    youtube: "https://youtu.be/Tjg_jNqsbBk"
+    youtube: "Tjg_jNqsbBk"
   }
 ];
