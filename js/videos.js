@@ -17,7 +17,7 @@ const VIDEOS = [
     date: "Antes de 2019",
     description: "Foi meu primeiro contato com o Premiere. Eu era bem novo e consegui trabalhar no ambiente da SAGA de Salvador.",
     file: "",
-    youtube: "https://youtu.be/WwQy9fug2LA"
+    youtube: "WwQy9fug2LA"
   },
   {
     title: "Trabalho feito junto à UNICORP para um curso",
