@@ -24,7 +24,7 @@ const VIDEOS = [
     date: "Começo de 2022",
     description: "Um trabalho para o qual fui indicado. Trabalhamos juntos por um mês em 15 vídeos de 35 minutos de média. Não posso divulgar mais material, mas esse foi meu primeiro grande projeto.",
     file: "",
-    youtube: "WwQy9fug2LA"
+    youtube: "pH2M6Jh2HVo"
   },
   {
     title: "Countdown para uma mesa de RPG",
